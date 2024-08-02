@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @najnuk86
 - 👀 I’m interested in code debugs and projects
-- 🌱 I’m currently learning python, saltstack, ansible, kubernetes and docket
+- 🌱 I’m currently learning python, bash, ansible, kubernetes and docker
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Github :D
 
